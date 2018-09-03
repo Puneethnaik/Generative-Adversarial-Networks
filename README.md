@@ -6,8 +6,6 @@ Implementation of Maximum Likelihood estimation
     the goal is to find that distribution. This is found out by maximizing the likelihood or the log likelihood of the function.
     code can be found in the file MaximumLikelihoodEstimation.py
     
+   Results
     
-    Results 
-    <img src="./resources/Figure_1.png">
-    
-
+  ![alt text](https://github.com/Puneethnaik/Generative-Adversarial-Networks/tree/master/resources)
