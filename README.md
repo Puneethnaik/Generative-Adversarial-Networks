@@ -8,4 +8,4 @@ Implementation of Maximum Likelihood estimation
     
    Results
     
-  ![alt text](https://github.com/Puneethnaik/Generative-Adversarial-Networks/tree/master/resources)
+  ![alt text](https://github.com/Puneethnaik/Generative-Adversarial-Networks/tree/master/resources/Figure_1.png)
